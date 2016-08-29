@@ -119,13 +119,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  coffee-rails (~> 3.2.1)
+  coffee-rails
   execjs
   faker
   jquery-rails
   pry-rails
-  rails (= 3.2.16)
-  sass-rails (~> 3.2.3)
+  rails
+  sass-rails
   sqlite3
   therubyracer
-  uglifier (>= 1.0.3)
+  uglifier
